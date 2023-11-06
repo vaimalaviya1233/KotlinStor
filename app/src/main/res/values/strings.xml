@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinStor</string>
+    <string name="start">Start</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="game">Game</string>
+    <string name="players">Players</string>
+</resources>
